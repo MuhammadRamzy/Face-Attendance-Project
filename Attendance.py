@@ -26,7 +26,7 @@ print('''\n
     **********************************************
     * Project Name : Automatic Attendance system *
     * Author       : Muhammad Ramzy              *
-    * Dependencies : face_recognidation          *
+    * Dependencies : face_recognition            *
     *                numpy                       *
     *                cv2                         *
     *                datetime                    *
