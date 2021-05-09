@@ -6,7 +6,12 @@ And refer it with the given images in the `scanning_img` folder and mark attenda
 ## Step 1
 Take your picture and add it into the `scanning_img` folder that given here ..
 
-## Step 2 
+## Step 2
+**Rename Your picture name as your Name**..
+### this is an important step it will only show your name if you only added a picture with your name. so dont forget to rename the picture name as your name
+
+
+## Step 3 
 Install the required Dependencies 
 
 ~~~
@@ -15,7 +20,7 @@ pip install opencv-python
 pip install numpy
 ~~~
 
-## Step 3
+## Step 4
 Run the 
 ~~~
 Attendance.py
