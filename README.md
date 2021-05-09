@@ -16,13 +16,13 @@ Rename Your picture name as your Name..
 ## Step 3 
 Install the required Dependencies 
 
-~~~
+~~~python
 pip install face_recognition
 ~~~
-~~~
+~~~python
 pip install opencv-python
 ~~~
-~~~
+~~~python
 pip install numpy
 ~~~
 
