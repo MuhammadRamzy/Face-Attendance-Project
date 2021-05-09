@@ -1,5 +1,5 @@
 # Face-Attendance-Project
-This is simple programme that detect the human face and find its properties. 
+This is a simple programme that detect human face and find its properties. 
 And refer it with the given images in the `scanning_img` folder and mark attendance of the person in the given
 `Attendance.csv` file with the time of attendance..
 
@@ -34,3 +34,5 @@ Attendance.py
 
 ## 
 Don't Forget to visit my website https://ramzy.in/
+
+> *Have a nice day : )*
