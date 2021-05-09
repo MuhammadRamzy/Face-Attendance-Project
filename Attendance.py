@@ -30,8 +30,8 @@ print('''\n
     *                numpy                       *
     *                cv2                         *
     *                datetime                    *
-    * Date Created : 4/1/2020                    *
-    * Date Modified: 4/3/2020                    *
+    * Date Created : 28/4/2020                   *
+    * Date Modified: 3/5/2020                    *
     **********************************************
 ''')
 
@@ -63,7 +63,7 @@ def markAttendance(name):
 encodeListKnown = findEncodings(images)
 print('Encoding Completed')
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture("THIS NUMBER DEPENDS UPON YOUR CAMERA")
 
 endTime = startTime - datetime.now()
 
