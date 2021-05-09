@@ -8,4 +8,9 @@ Take your picture and add it into the scanning_img folder that given here ..
 ## step 2 
 Install the required Dependencies 
 
+~pip install face_recognition~
+~pip install opencv-python~
+~pip install numpy~
 
+## step 3
+Run the ~Attendance.py~
