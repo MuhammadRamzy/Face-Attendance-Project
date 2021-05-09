@@ -7,7 +7,7 @@ import time
 
 
 startTime = datetime.now()
-path = "reference_img"
+path = "scanning_img"
 images = []
 className = []
 myList = os.listdir(path)
