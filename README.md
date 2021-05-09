@@ -10,7 +10,7 @@ Take your picture and add it into the `scanning_img` folder that given here ..
 Rename Your picture name as your Name..
 
 
-_* This is an important step. It will only show your name if you only added a picture with your name. So dont forget to rename the picture name as your name..._
+> _* This is an important step. It will only show your name if you only added a picture with your name. So dont forget to rename the picture name as your name..._
 
 
 ## Step 3 
