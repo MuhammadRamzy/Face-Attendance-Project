@@ -35,4 +35,4 @@ Attendance.py
 ## 
 Don't Forget to visit my website https://ramzy.in/
 
-> *Have a nice day : )*
+> **Have a nice day 😊**
