@@ -27,7 +27,7 @@ pip install numpy
 ~~~
 
 ## Step 4
-Run the 
+Now run
 ~~~
 Attendance.py
 ~~~
