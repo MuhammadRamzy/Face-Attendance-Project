@@ -24,11 +24,7 @@ Install the required Dependencies
 
 ~~~python
 pip install face_recognition
-~~~
-~~~python
 pip install opencv-python
-~~~
-~~~python
 pip install numpy
 ~~~
 
