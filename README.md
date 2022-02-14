@@ -12,8 +12,14 @@ Rename Your picture as your Name..
 
 > _This is an important step. It will only show your name if you only added a picture with your name. So dont forget to rename the picture name as your name..._
 
-
 ## Step 3 
+Clone this Repo into your system
+
+~~~python
+git clone https://github.com/MuhammadRamzy/Face-Attendance-Project
+~~~
+
+## Step 4
 Install the required Dependencies 
 
 ~~~python
@@ -26,7 +32,7 @@ pip install opencv-python
 pip install numpy
 ~~~
 
-## Step 4
+## Step 5
 Now run
 ~~~
 Attendance.py
