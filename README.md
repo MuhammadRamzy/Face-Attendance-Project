@@ -15,7 +15,7 @@ Rename Your picture as your Name..
 ## Step 3 
 Clone this Repo into your system
 
-~~~python
+~~~
 git clone https://github.com/MuhammadRamzy/Face-Attendance-Project
 ~~~
 
