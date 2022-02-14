@@ -35,7 +35,7 @@ pip install numpy
 ## Step 5
 Now run
 ~~~
-Attendance.py
+python3 Attendance.py
 ~~~
 
 ## 
